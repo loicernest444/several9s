@@ -1,0 +1,9 @@
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+	# Protect System Files - Security > Settings > System Tweaks > System Files
+	<Files *.php> 
+			Deny from all 
+	</Files>
+	 
+
+# END WordPress

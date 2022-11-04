@@ -1,0 +1,316 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-22 15:37+0600\n"
+"PO-Revision-Date: 2020-02-17 19:37+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_attr_e;esc_html_x;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/admin/dashboard/dashboard.php:5
+msgid "Welcome to Stike!"
+msgstr ""
+
+#: inc/admin/dashboard/dashboard.php:6
+msgid "Verify Your Purchase of stike WordPress Theme"
+msgstr ""
+
+#: inc/admin/features.php:3
+msgid "Unlock Features You Paid For!"
+msgstr ""
+
+#: inc/admin/features.php:10
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: inc/admin/features.php:11
+msgid "Choose a pre-built layout for starting a quick design process."
+msgstr ""
+
+#: inc/admin/features.php:17
+msgid "Premium and Useful Plugins"
+msgstr ""
+
+#: inc/admin/features.php:18
+msgid "Get access to premium and exclusive plugins for free."
+msgstr ""
+
+#: inc/admin/features.php:24
+msgid "Premium, Dedicated Support"
+msgstr ""
+
+#: inc/admin/features.php:25
+msgid "Get access to top-notch support."
+msgstr ""
+
+#: inc/admin/registration.php:25
+msgid "Where can I find purchase code?"
+msgstr ""
+
+#: inc/classes/Stike_rt.php:127
+msgid "Enter purchase key"
+msgstr ""
+
+#: inc/classes/Stike_rt.php:129
+msgid "Verify Now"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:45
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid ", "
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1193
+#: lib/class-tgm-plugin-activation.php:3020
+msgid "and"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: single.php:98
+msgid "No Title"
+msgstr ""
+
+#: single.php:150
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart.php:109
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:65
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:91
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:85
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and "
+"in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+#: woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:55
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:100
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:56
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+msgid "Customer Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:119
+msgid ""
+"Only logged in customers who have purchased this product may leave a "
+"review."
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""

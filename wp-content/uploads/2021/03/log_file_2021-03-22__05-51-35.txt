@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Stike Demo Data were successfully downloaded!
+Initial max execution time = 200
+Files info:
+Site URL = http://localhost/wordpress/stike
+Data file = C:\wamp64\www\wordpress\stike/wp-content/themes/stike//lib/demo-data/stike-demo.xml
+Widget file = C:\wamp64\www\wordpress\stike/wp-content/themes/stike//lib/demo-data/stike-widgets.json
+Customizer file = C:\wamp64\www\wordpress\stike/wp-content/themes/stike//lib/demo-data/stike-export.dat
+Redux files:
+stike_opt -> C:\wamp64\www\wordpress\stike/wp-content/themes/stike//lib/demo-data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+Gallery - Gallery - Imported
+Navigation Menu - Company - Imported
+Navigation Menu - Company - Imported
+Navigation Menu - Support - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: stike_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!

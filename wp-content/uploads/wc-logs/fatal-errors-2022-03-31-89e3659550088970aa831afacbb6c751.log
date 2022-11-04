@@ -1,0 +1,2 @@
+2022-03-31T12:05:31+00:00 CRITICAL Cannot redeclare filter_created_pages() (previously declared in /var/www/themes/ecademy/wp-content/plugins/woocommerce/includes/wc-update-functions.php:2283) in /var/www/themes/ecademy/wp-content/plugins/woocommerce/includes/wc-update-functions.php on line 2283
+

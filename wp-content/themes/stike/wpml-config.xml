@@ -1,0 +1,20 @@
+<wpml-config>
+    <admin-texts>
+        <key name="stike_opt">
+            <key name="welcome_text" />
+            <key name="address" />
+            <key name="header_left_button" />
+            <key name="header_right_button" />
+            <key name="footer_dsc" />
+            <key name="copyright_text" />
+            <key name="contact_info" />
+            <key name="contact_info_content" />
+            <key name="blog_title" />
+            <key name="blog_desc" />
+            <key name="loading_text" />
+            <key name="title_not_found" />
+            <key name="content_not_found" />
+            <key name="button_not_found" />
+        </key>
+    </admin-texts>
+</wpml-config>
